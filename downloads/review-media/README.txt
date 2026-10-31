@@ -1,0 +1,1 @@
+Original synthetic test pattern and sine tone generated for testing FusePlayer. No third-party film or music. Use the MP4 with the same-name SRT for playback, seek, audio and subtitle checks. This review material is not a bundled movie catalog.
