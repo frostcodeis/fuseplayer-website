@@ -1,9 +1,1 @@
-# FusePlayer website
-
-Official website, privacy policy, support, terms and third-party license materials for FusePlayer 1.0, Android version code 5.
-
-Movie of the Night is optional and uses the user's own API key. FusePlayer does not include films, channels or video subscriptions.
-
-Publish this directory as the GitHub Pages site. Application installers, publisher signing keys, reviewer accounts and R8 maps are not part of this repository.
-
-OpenSubtitles.com requires each user's own API key. Neither the retired OpenSubtitles application key nor the retired Movie of the Night key is included in build 5 materials.
+FusePlayer 1.0, Android version code 6. HTTPS online services; FTPS and encrypted SMB3 by default, with explicit legacy FTP/SMB consent. Movie of the Night uses an included application key with a disable switch and optional own key. No user credentials, publisher API key, signing keys or proprietary source belong in this website directory. Matching LGPL materials exclude the publisher's service key; modified builds can use their own optional key. Google Play review and public deployment are separate steps.
